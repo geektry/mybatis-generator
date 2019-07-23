@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: postgresql
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+
+mg:
+  author: geektry.com
+  parent-package: com.geektry.test
+  table-prefix:

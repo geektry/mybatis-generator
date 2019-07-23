@@ -1,0 +1,9 @@
+/.idea/
+/*.iml
+/target/
+/src/main/resources/application-mysql.yml
+/src/main/resources/application-postgresql.yml
+
+/src/main/java/
+!/src/main/java/geektry/
+/src/main/resources/mapper/
